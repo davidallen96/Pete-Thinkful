@@ -64,6 +64,6 @@ hr {
 
 .image-circle {
   border-radius: 50%;
-  border-color: #003049;
+  border: solid #003049;
   border-width: 2px;
 }
